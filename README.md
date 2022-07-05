@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://media4.giphy.com/media/1oF1KAEYvmXBMo6uTS/giphy.gif?cid=ecf05e47iq45jem2zekxufw8yqdilm8qfe80otoy2k559kjf&rid=giphy.gif&ct=g))]
+[![MasterHead](https://media4.giphy.com/media/1oF1KAEYvmXBMo6uTS/giphy.gif?cid=ecf05e47iq45jem2zekxufw8yqdilm8qfe80otoy2k559kjf&rid=giphy.gif&ct=g)]
 <h1 align="center">Hi 👋, I'm Carlos Rosales</h1>
 <h3 align="center">A passionate developer from Chicago</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">

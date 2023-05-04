@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Web Development, CI/CD, TDD**
 
-- 💬 Ask me about **Java, MERN**
+- 💬 Ask me about **C#/.NET, React**
 
 - 📫 How to reach me **rosales.carlost@gmail.com**
 
